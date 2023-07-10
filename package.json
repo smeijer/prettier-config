@@ -1,6 +1,6 @@
 {
   "name": "@smeijer/prettier-config",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Shared Prettier config for my projects",
   "license": "MIT",
   "repository": "smeijer/prettier-config",
@@ -14,8 +14,8 @@
     "test": "echo \"no test specified\" && exit 0"
   },
   "files": [
-    "init.js",
-    "index.js",
-    "license"
+    "./init.js",
+    "./index.js",
+    "./license"
   ]
 }
