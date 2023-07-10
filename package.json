@@ -1,0 +1,32 @@
+{
+  "name": "@smeijer/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared Prettier config for my projects",
+  "main": "./index.js",
+  "bin": "./init.js",
+  "scripts": {
+    "test": "echo \"no test specified\" && exit 0"
+  },
+  "files": [
+    "init.js",
+    "index.js",
+    "license"
+  ],
+  "repository": "smeijer/prettier-config",
+  "author": {
+    "name": "Stephan Meijer",
+    "email": "stephan.meijer@gmail.com",
+    "url": "https://meijer.ws"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smeijer/prettier-config/issues"
+  },
+  "homepage": "https://github.com/smeijer/prettier-config#readme",
+  "dependencies": {
+    "prettier": "^2.8.8"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}
