@@ -11,6 +11,11 @@
   "funding": "https://github.com/sponsors/smeijer",
   "main": "./index.js",
   "bin": "./init.js",
+	"keywords": [
+		"prettier",
+		"prettier-config",
+		"code-quality"
+	],
   "scripts": {
     "test": "echo \"no test specified\" && exit 0"
   },
